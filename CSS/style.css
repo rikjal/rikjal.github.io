@@ -1,0 +1,163 @@
+#log{
+	background: url(img/bg.png);
+	padding:0;
+	background-size: cover;
+	background-position: center;
+}
+body{
+	background: #1abc9c;
+	padding: 0;
+}
+#wrapper1{
+	font-family: 'Exo 2', sans-serif;
+	width: 500px;
+	margin: 0 auto;
+	background: rgba(0,0,0,0.5);
+	padding: 5px;
+	border-radius: 12px;
+	border: 2px solid #ecf0f1;
+}
+#wrapper{
+	width: 500px;
+	margin: 0 auto;
+	background: rgba(0,0,0,0.5);
+	color: #34495e;
+	padding: 5px;
+	border-radius: 12px;
+	border: 2px solid #ecf0f1;
+}
+.avatar{
+	width: 150px;
+	text-align: center;
+}
+#ls{
+	color: yellow;
+	text-shadow: 5px 4px 2px red;
+}
+.myform{
+	width: 450px;
+	margin: 0 auto;
+}
+.inp{
+	width: 430px;
+	margin: 0 auto;
+	padding: 5px;
+}
+#loginbtn{
+	margin-top: 10px;
+	background-color: #2ecc71;
+	width: 100%;
+	color: white;
+	padding: 5px;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	text-shadow: 0px 3px 5px rgba(0,0,0,0.6);
+}
+#regbtn{
+	margin-top: 10px;
+	background-color: #3498db;
+	width: 100%;
+	color: white;
+	padding: 5px;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	text-shadow: 0px 3px 5px rgba(0,0,0,0.6);
+}
+#signupbtn{
+	margin-top: 10px;
+	background-color: #3498db;
+	width: 100%;
+	color: white;
+	padding: 5px;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	text-shadow: 0px 3px 5px rgba(0,0,0,0.6);
+}
+#backbtn{
+	margin-top: 10px;
+	background-color: #d35400;
+	width: 30%;
+	color: white;
+	padding: 5px;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	text-shadow: 0px 3px 5px rgba(0,0,0,0.6);
+}
+#logoutbtn{
+	margin-top: 10px;
+	background-color: #e74c3c;
+	width: 100%;
+	color: white;
+	padding: 5px;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+	margin: 5px;
+	text-shadow: 0px 2px 4px rgba(0,0,0,0.6);
+	font-family: 'Lobster', cursive;
+}
+a{
+	text-decoration: none;
+}
+#tt{
+	color: orange;
+}
+.radio{
+	padding: 5px;
+	margin-top: 5px;
+	margin: 0 auto;
+}
+#ttt{
+	color: rgb(90%,20%,50%);
+}
+h3{
+	color: white;
+}
+li{
+	display: inline;
+}
+ul a{
+	font-size: 16px;
+	color: rgba(230,230,230,.9);
+	text-shadow: 0px 4px 6px rgba(0, 0, 0, 0.6);
+	margin-bottom: 24px;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+ul a:hover{
+	color: orange;
+	font-size: 20px;
+	text-shadow: 2px 4px 3px black;
+}
+b{
+	color: #e3e3e3;
+	font-family: cursive;
+}
+.myform label{
+	text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.6);
+
+}
+#forgot{
+	font-family: cursive;
+	font-size: 13px;
+	color: red;
+
+}
+#forgot:hover{
+	color: white;
+	text-decoration: underline;
+}
+#hm{
+	background: url(img/home.png);
+	background-size: stretch;
+	padding: 0;
+}
